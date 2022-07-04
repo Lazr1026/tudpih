@@ -2,7 +2,7 @@ You should really only follow this if you were redirected here due to unable to 
 
 ?> UDPIH requires a Raspberry Pi Zero/Pico, or a Switch capable of running payloads (Unpatched or a Modchipped Unit).
 
-- Set up UDPIH on your [Raspberry Pi Zero](https://github.com/GaryOderNichts/udpih_nxpayload#instructions), [Pico](https://github.com/GaryOderNichts/udpih#pico), or [Nintendo Switch](https://github.com/GaryOderNichts/udpih_nxpayload#instructions). (Click on the link that suits your needs best.)
+- Set up UDPIH on your [Raspberry Pi Zero](https://github.com/GaryOderNichts/udpih#raspberry-pi-zero-linux), [Pico](https://github.com/GaryOderNichts/udpih#pico), or [Nintendo Switch](https://github.com/GaryOderNichts/udpih_nxpayload#instructions). (Click on the link that suits your needs best.)
 
 ### Needed files
 - [Tiramisu](https://tiramisu.foryour.cafe/) (Just click `Download Package`).
