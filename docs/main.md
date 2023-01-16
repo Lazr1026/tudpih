@@ -19,7 +19,7 @@ You should really only follow this if you were redirected here due to unable to 
 1. Unplug the Wii U from power, and then replug it.
 1. Power on your Wii U.
 1. As soon as you see the `Wii U` logo, plug in your UDPIH device.
-1. Load any application. You should now see the environment loader.
+1. Load any application. You should now see the EnvironmentLoader.
 1. Navigate to and select `installer`.
 1. Press A `Check`.
 1. Press A on `Install / Update`.
@@ -42,7 +42,7 @@ You should really only follow this if you were redirected here due to unable to 
 
 ### Autobooting Tirmisu
 ?> This section is optional. If you do not want to autoboot into the PayloadLoader, then skip to [Finalizing Setup](https://wiiu.hacks.guide/#/tiramisu/finalizing-setup)
-1. Start the console to boot into the Wii U Menu, launch the Health and Safety Information app and hold the X button to open the Environment Loader menu.
+1. Start the console to boot into the Wii U Menu, launch the Health and Safety Information app and hold the X button to open the EnvironmentLoader menu.
 1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
 1. Press A to select `Check`. 
 1. Select `Boot Options`.
